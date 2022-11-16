@@ -39,6 +39,8 @@ html {
     text-align: center;
     background: #EFEFEF;
     padding-block: 15px;
+    margin-left: 7rem;
+    margin-right: 15px;
 }
 
 .text-group1{
@@ -64,8 +66,8 @@ html {
     padding-top: 10px;
 }
 
-.group1, .group2, .group3{
-    margin-right: 15px;
+.group2, .group3{
+    margin-right: 59px;
 }
 
 .footer{
