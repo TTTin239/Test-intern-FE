@@ -48,6 +48,7 @@ a{
 
 .logo{
     width: 30%;
+    height: auto;
 }
 
 .group1{
@@ -71,10 +72,13 @@ a{
     padding-block: 15px;
     padding-top: 20px;
     padding-bottom: 20rem;
+    text-align: justify;
+    padding-right: 21px;
 }
 
 .img-content{
-    width: 40%;
+    width: 25%;
+    height: auto;
 }
 
 .text-content{
