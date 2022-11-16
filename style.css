@@ -16,10 +16,23 @@ html {
 .header {
     background: #191718;
     width: 40%;
+    text-align: center;
+    
 }
 
 .nav{
-    
+    padding-top: 5px;
+}
+
+li{
+    border-style: solid;
+    border-color: #191718 #191718 gray #191718;
+    padding: 15px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
 }
 
 .logo-content {
