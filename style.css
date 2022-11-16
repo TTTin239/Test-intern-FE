@@ -15,16 +15,19 @@ html {
 
 .header {
     background: #191718;
-    width: 40%;
+    width: 32%;
     text-align: center;
     
 }
 
 .nav{
     padding-top: 5px;
+    position: fixed;
+    overflow: auto;
 }
 
 li{
+    display: block;
     border-style: solid;
     border-color: #191718 #191718 gray #191718;
     padding: 15px;
